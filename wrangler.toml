@@ -1,0 +1,6 @@
+name = "assignment"
+type = "webpack"
+account_id = "36fe48104e3716b003150cbd42af87f0"
+workers_dev = true
+route = ""
+zone_id = ""
