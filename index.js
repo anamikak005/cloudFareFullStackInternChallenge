@@ -1,6 +1,6 @@
 addEventListener('fetch', event => {
   var myurl = event.request.url;
-  if(myurl == 'https://example.com/'){
+  if(myurl == 'https://assignment.anamika.workers.dev/'){
   event.respondWith(handleRequest(event.request));
 } 
   
